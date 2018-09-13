@@ -1,0 +1,7 @@
+# app类型
+type App {
+    name: String
+    thumb: String 
+    # app介绍
+    description: String
+}

@@ -1,0 +1,5 @@
+# 查询接口
+type Query {
+    # 查询所有的app
+    apps: [App]
+}
